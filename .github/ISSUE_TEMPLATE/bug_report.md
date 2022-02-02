@@ -1,0 +1,18 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[Date] [Title]"
+labels: bug, duplicate
+assignees: iq220
+
+---
+
+--- blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.community/
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
+---
